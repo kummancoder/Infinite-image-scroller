@@ -1,1 +1,1 @@
-# Infinite-image-stroller
+# Infinite-image-scroller
