@@ -8,7 +8,7 @@ A simple **Infinite Image Scroller** built using **React** and **Tailwind CSS**.
 - **Responsive Design**: Works well across different screen sizes.
 - **Smooth Performance**: Optimized for fast loading and smooth scrolling.
 
-##Demo
+## Demo
 
 ![image](https://github.com/user-attachments/assets/5c04c6d9-90d0-4dba-a519-6b4ca71c6a37)
 
